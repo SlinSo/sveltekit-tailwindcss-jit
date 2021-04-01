@@ -1,1 +1,3 @@
-# sveltekit-tailwindcss-jit
+# sveltekit + tailwindcss JIT + adapter static
+
+Simple setup for static hosting.
